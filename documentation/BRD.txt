@@ -1,0 +1,4 @@
+Business Requirement Document (BRD)
+Purpose: Document business workflows and KPIs for booking, cancellation, and payment flows.
+Stakeholders: Product, Operations, Payments, Legal.
+KPIs: booking conversion, seat utilization, cancellation rate, revenue per route.

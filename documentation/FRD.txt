@@ -1,0 +1,5 @@
+Functional Requirement Document (FRD)
+Functional endpoints: /search, /hold, /confirm, /cancel
+Data model: bookings, flights, users
+Reporting: daily booking volumes, route revenue, conversion rate
+Non-functional: response SLA for confirm endpoint, retry strategy for payments
